@@ -21,5 +21,5 @@ you want.
 
 With this loading screen you will be free and you will be able to customize it as your own loading screen.
 
-# [Preview](https://youtu.be/4FT1rDpKuhM) [Tebex](https://tbx-76828924a81431-403f7d.tebex.io/) [GitHub](https://github.com/ajerusalem/jeru_bike) (open sources)
+# [Preview](https://youtu.be/4FT1rDpKuhM) [Tebex](https://tbx-76828924a81431-403f7d.tebex.io/) [GitHub](https://github.com/ajerusalem/jeru_bike)
 ![image](https://github.com/user-attachments/assets/94c37430-3a7c-4eb9-b0f7-db8fb20ce018)
